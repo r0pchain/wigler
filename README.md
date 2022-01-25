@@ -1,2 +1,2 @@
 # wigler
- Input a series of wifi SSIDs
+ Input a series of wifi SSIDs, receive geolocation
