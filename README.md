@@ -7,4 +7,15 @@
 # Requirements
 
 - Python 3
-- wygle Python package, set up with your WiGLE key
+- wygle Python package, set up with your WiGLE key in the config
+
+
+# Usage
+1.) Edit the 'ssids' var at the top of wigler.py to reflect the wireless networks you'd like to search
+2.) Tweak the 'successDistance' var at the top if you'd like to increase/decrease the radius of the search, in meters
+3.) Run wigler.py
+
+# Tanium Saved Question
+If you have Tanium deployed in your enterprise, you can use that to conduct SSID surveying for you - just set up the 'SSID Tanium Question.txt' as a Saved Question that runs at some recurring interval, and then use Connect to drop it into your SIEM. 
+
+

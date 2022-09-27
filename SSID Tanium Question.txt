@@ -1,0 +1,1 @@
+Get Computer Name and Client Time and Time Zone and Uptime and Wireless Networks Visible from all machines with ( Online contains True and ( Windows OS Type contains Workstation or Operating System contains Mac ) and all Wireless Networks Visible:SSID not contains No SSID )
