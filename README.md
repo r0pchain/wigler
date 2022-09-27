@@ -19,3 +19,6 @@
 If you have Tanium deployed in your enterprise, you can use that to conduct SSID surveying for you - just set up the 'SSID Tanium Question.txt' as a Saved Question that runs at some recurring interval, and then use Connect to drop it into your SIEM. 
 
 
+# Thanks
+Thanks to Nathan Rooy who described using the Haversine formula in Python: https://nathanrooy.github.io/posts/2016-09-07/haversine-with-python/
+

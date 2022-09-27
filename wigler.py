@@ -59,13 +59,13 @@ def wigle_search_ssids(ssidToProcess):
         lat, lng = None, None
     return lat, lng
 	
-def Haversine(coord1,coord2):
+def Haversine(coord1,coord2): # From https://nathanrooy.github.io/posts/2016-09-07/haversine-with-python/
 
         lon1,lat1=coord1
         lon2,lat2=coord2
         
-        R=6371000                               # radius of Earth in meters
-        phi_1=math.radians(lat1)
+        R=6371000                               # radius of Earth in meters. Don't touch this unless the earth changes size
+        phi_1=math.radians(lat1)                # in fact, don't change this entire section unless you're a mathematician 
         phi_2=math.radians(lat2)
 
         delta_phi=math.radians(lat2-lat1)
