@@ -7,7 +7,7 @@
 # Requirements
 
 - Python 3
-- wygle Python package, set up with your WiGLE key in the config
+- pygle Python package, set up with your WiGLE key in the config (https://pypi.org/project/pygle/)
 
 
 # Usage
