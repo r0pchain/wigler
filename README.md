@@ -12,7 +12,9 @@
 
 # Usage
 1.) Edit the 'ssids' var at the top of wigler.py to reflect the wireless networks you'd like to search
+
 2.) Tweak the 'successDistance' var at the top if you'd like to increase/decrease the radius of the search, in meters
+
 3.) Run wigler.py
 
 # Tanium Saved Question
