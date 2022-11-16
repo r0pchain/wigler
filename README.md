@@ -22,7 +22,7 @@
 If you have Tanium deployed in your enterprise, you can use that to conduct SSID surveying for you - just set up the 'SSID Tanium Question.txt' as a Saved Question that runs at some recurring interval, and then use Connect to drop it into your SIEM. 
 
 # Rate Limiting
-Some attendees of the Converge 2022 conference told me after my presentation that they were being rate-limited. This is likely because a bunch of people downloaded this script and ran queries coming from the same hotel IP. You'll want to consider the WiGLE commercial option (linked above) to get around rate-limiting, which is .013 cents per query. 
+Some attendees of the Converge 2022 conference told me after my presentation that they were being rate-limited by WiGLE. This is likely because a bunch of people downloaded this script and ran queries coming from the same hotel IP. You'll want to consider the WiGLE commercial option (linked above) to get around rate-limiting, which is .013 cents per query. 
 
 
 # Thanks
