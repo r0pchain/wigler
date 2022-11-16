@@ -8,7 +8,7 @@
 
 - Python 3
 - pygle Python package, set up with your WiGLE key in the config (https://pypi.org/project/pygle/)
-- WiGLe Commercial account if you're getting rate-limited (https://wigle.net/commercial)
+- WiGLE Commercial account if you're getting rate-limited (https://wigle.net/commercial)
 
 
 # Usage
